@@ -942,7 +942,7 @@
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p>$ git commit -m “commit messege”</text:p>
+        <text:p>$ git commit -m “commit message”</text:p>
         <text:list>
          <text:list-item>
           <text:p>Officially commits the change</text:p>
