@@ -968,7 +968,7 @@
    <draw:page draw:name="page6" draw:style-name="dp3" draw:master-page-name="Default" presentation:presentation-page-layout-name="AL3T1">
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P5" draw:layer="layout" svg:width="25.199cm" svg:height="3.799cm" svg:x="1.4cm" svg:y="0.691cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P5"><text:span text:style-name="T1">Too much has been modified since last commit, and a simple commit msg cannot describe what has been done</text:span></text:p>
+      <text:p text:style-name="P5"><text:span text:style-name="T1">Too much has been modified since last commit, and a simple commit msg cannot describe what has been done?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:layer="layout" svg:width="25.199cm" svg:height="12.179cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline">
