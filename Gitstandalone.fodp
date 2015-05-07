@@ -5,7 +5,7 @@
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-2601</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1659</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-448</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">29014</config:config-item>
    <config:config-item config:name="VisibleAreaHeight" config:type="int">26369</config:config-item>
    <config:config-item-map-indexed config:name="Views">
@@ -38,7 +38,7 @@
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
      <config:config-item config:name="VisibleAreaTop" config:type="int">-2601</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1659</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-448</config:config-item>
      <config:config-item config:name="VisibleAreaWidth" config:type="int">29015</config:config-item>
      <config:config-item config:name="VisibleAreaHeight" config:type="int">26370</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
@@ -942,7 +942,7 @@
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p>$ gcm “commit messege”</text:p>
+        <text:p>$ git commit -m “commit messege”</text:p>
         <text:list>
          <text:list-item>
           <text:p>Officially commits the change</text:p>
